@@ -1,6 +1,9 @@
 <h1 style="font-size: 36px">Olá, seja bem vindo ao meu GitHub!</h1>
 
-<p>Prazer, me chamo Gabriel e sou apaixonado pela área de tecnologia, atualmente busco uma transição de carreira e venho estudando, através de cursos, tecnologias para me ingressar no mercado de trabalho. Meus planos futuros é iniciar a faculdade no curso de Analise e Desenvolvimento de Sistemas, e buscar cada vez mais a evolução e aperfeiçoamento do que venho aprendendo.</p>
+<p>Estudante de Análise e Desenvolvimento pela UNITAU, venho ampliando meus conhecimentos através de cursos complementares.
+
+Sou uma pessoa bastante dedicada, focada, que está buscando novos desafios e conhecimentos.
+Não possuo experiência na área, porém com minhas habilidades adquiridas em trabalhos anteriores, posso trazer novas formas de pensar e encontrar soluções.</p>
 <p>Meus repositórios são de exércicios práticos e de projetos pessoais, estou sempre aberto a críticas e a fazer Networking para trocas de informações</p>
 
 <p>Para contatos:</p>
